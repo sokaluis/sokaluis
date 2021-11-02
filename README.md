@@ -93,7 +93,7 @@ const soka: ISoka = {
 
 <br />
 
-## As a Frontend
+### As a Frontend
 <br />
 
 - [Globalis SA](https://www.globalis-sa.com/)
@@ -125,9 +125,7 @@ const soka: ISoka = {
 </div>
 <br />
 
-<br />
-
-## As a Mobile Dev
+### As a Mobile Dev
 <br />
 
 - [Try Hampr App](https://www.tryhampr.com/) - [APK](https://play.google.com/store/apps/details?id=com.hampr)
@@ -143,9 +141,7 @@ const soka: ISoka = {
 </div>
 <br />
 
-<br />
-
-## As a Shopify Developer
+### As a Shopify Developer
 <br />
 
 - [Yalla Baby Box Shop](https://yallababy.com/) 
@@ -177,9 +173,6 @@ const soka: ISoka = {
 <h2 style="text-align: center;">Tools I work upon : 🛠 (Soon)</h2>
 <br/> -->
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 <h3>How to reach me</h3>
