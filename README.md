@@ -87,9 +87,9 @@ const soka: ISoka = {
 
 ![Luis Azocar Github Stats](https://github-readme-stats.vercel.app/api?username=sokaluis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<div style=" flex: 1 "></div></div><br/><br/>
+<div style=" flex: 1 "></div></div><br/>
 
-<h2 style="text-align: center;">Some of Projects that I've worked and participate</h2>
+<!-- <h2 style="text-align: center;">Some of Projects that I've worked and participate</h2>
 
 <br />
 
@@ -173,15 +173,13 @@ const soka: ISoka = {
 <h2 style="text-align: center;">Tools I work upon : 🛠 (Soon)</h2>
 <br/> -->
 
-<br/>
-
 <h3>How to reach me</h3>
 <br/>
 
 - Email : lazocar@protonmail.com
-
 - Portfolio : [lazocar.dev](https://lazocar.dev) (Soon)
 
-<br><br>
+<br>
 
 ⭐️ From [sokaluis](https://github.com/sokaluis)
+<br>
