@@ -124,16 +124,13 @@ const soka: ISoka = {
 ## As a Mobile Dev
 <br />
 
-- [Try Hampr App](https://www.tryhampr.com/)
+- [Try Hampr App](https://www.tryhampr.com/) - [APK](https://play.google.com/store/apps/details?id=com.hampr)
 <br />
-[<img src="https://img.shields.io/badge/apk%20-%2368a037.svg?&style=for-the-badge&logo=apk&logoColor=white"/>](https://play.google.com/store/apps/details?id=com.hampr)
 <img src="https://img.shields.io/badge/reactnative%20-%2361dafb.svg?&style=for-the-badge&logo=reactnative&logoColor=white"/>
 <br />
 
-- [k4 Connect](https://www.k4connect.com/)
+- [k4 Connect](https://www.k4connect.com/) - [APK Community](https://play.google.com/store/apps/details?id=com.k4connect.k4community) - [APK Connect](https://play.google.com/store/apps/details?id=com.k4connect.k4app)
 <br />
-[<img src="https://img.shields.io/badge/apk%20-%2368a037.svg?&style=for-the-badge&logo=apk&logoColor=white"/>](https://play.google.com/store/apps/details?id=com.k4connect.k4community)
-[<img src="https://img.shields.io/badge/apk%20-%23f54d27.svg?&style=for-the-badge&logo=apk&logoColor=white"/>](https://play.google.com/store/apps/details?id=com.k4connect.k4app)
 <img src="https://img.shields.io/badge/reactnative%20-%2361dafb.svg?&style=for-the-badge&logo=reactnative&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <br />
