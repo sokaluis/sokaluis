@@ -98,25 +98,31 @@ const soka: ISoka = {
 
 - [Globalis SA](https://www.globalis-sa.com/)
 <br />
+<div>
 <img src="https://img.shields.io/badge/html5%20-%23e54c20.svg?&style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/sass%20-%23cf649b.svg?&style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
 <br />
 
 - [Vived Learning](https://vivedlearning.com/)
 <br />
+<div>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
 <br />
 
 - [BSD Solutions](http://bsdsolutions.com.ar/)
 <br />
+<div>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
 <br />
 
 <br />
@@ -131,8 +137,10 @@ const soka: ISoka = {
 
 - [k4 Connect](https://www.k4connect.com/) - [APK Community](https://play.google.com/store/apps/details?id=com.k4connect.k4community) - [APK Connect](https://play.google.com/store/apps/details?id=com.k4connect.k4app)
 <br />
+<div>
 <img src="https://img.shields.io/badge/reactnative%20-%2361dafb.svg?&style=for-the-badge&logo=reactnative&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
 <br />
 
 <br />
@@ -142,21 +150,27 @@ const soka: ISoka = {
 
 - [Yalla Baby Box Shop](https://yallababy.com/) 
 <br />
+<div>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/shopify%20-%23034c3e.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
+</div>
 <br />
 
 - [Miss Spa](https://miss-spa.com/)
 <br />
+<div>
 <img src="https://img.shields.io/badge/shopify%20-%23034c3e.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/liquid%20-%233399cb.svg?&style=for-the-badge&logo=liquid&logoColor=white"/>
+</div>
 <br />
 
 - [Sellry](https://sellry.com/)
 <br />
+<div>
 <img src="https://img.shields.io/badge/shopify%20-%23034c3e.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/liquid%20-%233399cb.svg?&style=for-the-badge&logo=liquid&logoColor=white"/>
+</div>
 <br />
 
 <!-- 
