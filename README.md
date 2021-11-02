@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: 'center'; justify-content: 'space-between' "><div>
 <p><em>Frontend / Mobile Developer since 2015</em></p>
-<p><em>Currently working as a React Native Dev in <a href="https://www.cfotechlatam.com/">CFO Tech Latam</a></em></p>
+<p><em>Currently working as a React Native Dev Freelancer</em></p>
 </div><div style=" flex: 1 "></div>
 <div>
 
