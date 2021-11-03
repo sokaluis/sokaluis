@@ -37,17 +37,19 @@ const soka: ISoka = {
     "Javascript",
     "Typescript",
     "Dart",
-    "Swift, Liquid",
+    "Swift",
+    "Liquid",
   ],
   frontend: [
     "React",
     "Redux",
     "Styled-Components",
     "Hooks",
-    "Context API, Shopify API",
+    "Context API",
+    "Shopify API",
   ],
   mobile: ["React Native", "Flutter", "Swift"],
-  backend: ["Node", "Express", "MongoDB", "mongoose", "Docker"],
+  backend: ["NodeJS", "Express", "MongoDB", "mongoose", "Docker"],
   testing: ["Jest"],
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react and typescript",
@@ -71,7 +73,7 @@ const soka: ISoka = {
 <img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/reactnative%20-%2361dafb.svg?&style=for-the-badge&logo=reactnative&logoColor=white"/>
 <img src="https://img.shields.io/badge/flutter%20-%23075c9a.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/node%20-%23066e01.svg?&style=for-the-badge&logo=node&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodejs%20-%23066e01.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb%20-%2311624a.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%232497ec.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/jest%20-%2316c214.svg?&style=for-the-badge&logo=jest&logoColor=white"/>
@@ -144,7 +146,7 @@ const soka: ISoka = {
 ### As a Shopify Developer
 <br />
 
-- [Yalla Baby Box Shop](https://yallababy.com/) 
+- [Yalla Baby Box Shop](https://yallababy.com/)
 <br />
 <div>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -169,7 +171,7 @@ const soka: ISoka = {
 </div>
 <br />
 
-<!-- 
+<!--
 <h2 style="text-align: center;">Tools I work upon : 🛠 (Soon)</h2>
 <br/> -->
 
