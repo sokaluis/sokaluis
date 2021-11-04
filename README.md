@@ -183,5 +183,6 @@ const soka: ISoka = {
 
 <br>
 
-⭐️ From [sokaluis](https://github.com/sokaluis)
+⭐️ From [sokaluis](https://github.com/sokaluis) with :sparkling_heart:
+<img align="right" height="25" src="https://visitor-badge.glitch.me/badge?page_id=sokaluis.sokaluis0">
 <br>
