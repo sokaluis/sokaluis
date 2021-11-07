@@ -9,6 +9,15 @@
 
 <div style="display: flex; align-items: 'center'; justify-content: 'space-between' "><div>
 <p><em>Frontend / Mobile Developer since 2015</em></p>
+
+### Becoming FullStack Developer:
+
+- [x] React / React Native (7/10)
+- [x] Node.js (4/10)
+- [x] Express (2/10)
+- [x] MongoDB (4/10)
+- [x] Testing (1/10) 
+
 <p><em>Currently working as a React Native Dev Freelancer</em></p>
 </div><div style=" flex: 1 "></div>
 <div>
