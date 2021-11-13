@@ -12,11 +12,11 @@
 
 ### Becoming FullStack Developer:
 
-- [x] React / React Native ----  ( 7 / 10 )
-- [x] Node.js ----------------- ( 4 / 10 )
-- [x] Express ----------------- ( 2 / 10 )
-- [x] MongoDB --------------- ( 4 / 10 )
-- [x] Testing ------------------ ( 1 / 10 )
+- [x] React / React Native ---- ( 80% )
+- [x] Node.js ----------------- ( 40% )
+- [x] Express ----------------- ( 30% )
+- [x] MongoDB --------------- ( 40% )
+- [x] Testing ------------------ ( 20% )
 
 <p><em>Currently working as a React Native Dev Freelancer</em></p>
 </div><div style=" flex: 1 "></div>
@@ -105,7 +105,7 @@ const soka: ISoka = {
 
 - Email : lazocar@protonmail.com
 - Portfolio : [lazocar.dev](https://lazocar.dev) (Soon)
-<br>
+  <br>
 
 ⭐️ From [sokaluis](https://github.com/sokaluis) with :sparkling_heart:
 <img align="right" height="25" src="https://visitor-badge.glitch.me/badge?page_id=sokaluis.sokaluis0">
