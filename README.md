@@ -103,7 +103,7 @@ const soka: ISoka = {
 <h3>How to reach me</h3>
 <br/>
 
-- Email : lazocar@protonmail.com
+- Email : lazocar.dev@gmail.com
 - Portfolio : [lazocar.dev](https://lazocar.dev) (Soon)
   <br>
 
