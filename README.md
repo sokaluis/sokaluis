@@ -5,21 +5,9 @@
 [![GitHub Soka](https://img.shields.io/github/followers/sokaluis?label=follow&style=social)](https://github.com/sokaluis)
 
 </div>
-<br/>
+<h3><em>Frontend / Mobile Developer since 2015</em></h3>
+<h6><em> Becoming FullStack Developer (MERN Stack)</em></h6>
 
-<div style="display: flex; align-items: 'center'; justify-content: 'space-between' "><div>
-<p><em>Frontend / Mobile Developer since 2015</em></p>
-
-### Becoming FullStack Developer:
-
-- [x] React / React Native ---- ( 80% )
-- [x] Node.js ----------------- ( 40% )
-- [x] Express ----------------- ( 30% )
-- [x] MongoDB --------------- ( 40% )
-- [x] Testing ------------------ ( 20% )
-
-<p><em>Currently working as a React Native Dev Freelancer</em></p>
-</div><div style=" flex: 1 "></div>
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokaluis&layout=compact)](https://github.com/sokaluis/github-readme-stats)
