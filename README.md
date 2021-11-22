@@ -104,7 +104,7 @@ const soka: ISoka = {
 <br/>
 
 - Email : lazocar.dev@gmail.com
-- Portfolio : [https://www.sokka.dev/](https://www.sokka.dev/) (Soon)
+- Portfolio : [sokka.dev](https://www.sokka.dev/) (Soon)
   <br>
 
 ⭐️ From [sokaluis](https://github.com/sokaluis) with :sparkling_heart:
