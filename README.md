@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Hi, I'm Luis Azocar! (Soka)<img src="https://media1.giphy.com/media/RJ2bSaZYo0g1I0SpUh/giphy.gif" width="40"></h1>
 <div style="text-align: center;">
 
-[![Linkedin: luis-azocar](https://img.shields.io/badge/-sokaluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-azocar/)](https://www.linkedin.com/in/luis-azocar/)
+[![Linkedin: luis-azocar](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-azocar/)](https://www.linkedin.com/in/luis-azocar/)
 [![GitHub Soka](https://img.shields.io/github/followers/sokaluis?label=follow&style=social)](https://github.com/sokaluis)
 
 </div>
