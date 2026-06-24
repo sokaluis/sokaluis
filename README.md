@@ -1,100 +1,87 @@
-<h1 style="text-align: center;"> Hi, I'm Luis Azocar! (Soka)<img src="https://media1.giphy.com/media/RJ2bSaZYo0g1I0SpUh/giphy.gif" width="40"></h1>
-<div style="text-align: center;">
+# Hi, I'm Luis Azocar! <sub>(Sokka)</sub>
 
-[![Linkedin: luis-azocar](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-azocar/)](https://www.linkedin.com/in/luis-azocar/)
+[![LinkedIn: luis-azocar](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-azocar/)](https://www.linkedin.com/in/luis-azocar/)
 [![GitHub Soka](https://img.shields.io/github/followers/sokaluis?label=follow&style=social)](https://github.com/sokaluis)
 
-</div>
-<h3><em>Frontend / Mobile Developer since 2015</em></h3>
-<h6><em> Becoming FullStack Developer (MERN Stack)</em></h6>
+**Senior Frontend Developer** based in Buenos Aires, Argentina.  
+Building structured, accessible web applications for fintech, e-commerce, logistics, and telecommunications across US and Latin American markets.
 
-<div>
+I have been working with frontend and mobile products since 2015, with a current focus on modern React, Next.js, TypeScript, CMS-backed content, and clean architecture for product teams.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokaluis&layout=compact)](https://github.com/sokaluis/github-readme-stats)
-
-</div>
-</div>
-
-<h2 style="text-align: center;">About Me</h2>
+## About Me
 
 ```typescript
-type Genre = "She" | "He";
+type Pronouns = 'he' | 'him';
 
-interface ISoka extends DeveloperSkills {
-  pronouns: Genre;
-  challenge?: string;
+interface SokaProfile {
+  name: string;
+  role: string;
+  location: string;
+  experienceSince: number;
+  focus: string[];
+  values: string[];
   sayHi: () => string;
 }
 
-const soka: ISoka = {
-  pronouns: "He",
-  languages: [
-    "HTML",
-    "CSS",
-    "Javascript",
-    "Typescript",
-    "Dart",
-    "Swift",
-    "Liquid",
+const soka: SokaProfile = {
+  name: 'Luis Azocar',
+  role: 'Senior Frontend Developer',
+  location: 'Buenos Aires, Argentina',
+  experienceSince: 2015,
+  focus: [
+    'Frontend architecture',
+    'React and Next.js applications',
+    'Type-safe CMS integrations',
+    'Performance and accessibility',
+    'Developer experience',
   ],
-  frontend: [
-    "React",
-    "Redux",
-    "Styled-Components",
-    "Hooks",
-    "Context API",
-    "Shopify API",
-  ],
-  mobile: ["React Native", "Flutter", "Swift"],
-  backend: ["NodeJS", "Express", "MongoDB", "mongoose", "Docker"],
-  testing: ["Jest"],
-  challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and typescript",
-  sayHi: () => {
-    return "Hi Everyone";
-  },
+  values: ['clarity', 'maintainability', 'product thinking'],
+  sayHi: () => 'Hi everyone!',
 };
 ```
 
-<h2 style="text-align: center;">Languages & Tools</h2>
-<br/>
+## What I Work On
 
-<div style="text-align: center;">
-<img src="https://img.shields.io/badge/git%20-%23f54d27.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23e54c20.svg?&style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/sass%20-%23cf649b.svg?&style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/redux%20-%23774abd.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/reactnative%20-%2361dafb.svg?&style=for-the-badge&logo=reactnative&logoColor=white"/>
-<img src="https://img.shields.io/badge/flutter%20-%23075c9a.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodejs%20-%23066e01.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb%20-%2311624a.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%232497ec.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/jest%20-%2316c214.svg?&style=for-the-badge&logo=jest&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart%20-%2315212f.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/express%20-%23414141.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/shopify%20-%23034c3e.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/liquid%20-%233399cb.svg?&style=for-the-badge&logo=liquid&logoColor=white"/>
-</div>
+- **Frontend architecture** — React, Next.js, TypeScript, component systems, scalable UI foundations.
+- **CMS-driven products** — Strapi-backed content, i18n, typed data boundaries, explicit empty states.
+- **Performance & accessibility** — semantic HTML, reduced-motion support, Core Web Vitals awareness.
+- **Developer experience** — CI/CD, testing, typed contracts, and maintainable delivery workflows.
 
-<br>
+## Engineering Focus
 
-<div style="display: flex;"><div style=" flex: 1 "></div>
+- **Clear architecture** — code should communicate boundaries, ownership, and intent.
+- **Product-minded frontend** — UI is not only visual; it owns states, flows, feedback, and trust.
+- **Maintainable delivery** — good engineering means shipping without making the next change harder.
 
-![Luis Azocar Github Stats](https://github-readme-stats.vercel.app/api?username=sokaluis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## Portfolio
 
-<div style=" flex: 1 "></div></div><br/>
+You can find my CV, selected projects, and work history here:
 
-<h3>How to reach me</h3>
-<br/>
+**[luisazocar.vercel.app](https://luisazocar.vercel.app)**
 
-- Email : lazocar.dev@gmail.com
-- Portfolio : [sokka.dev](https://www.sokka.dev/) (Soon)
-  <br>
+## Tech Stack
 
-⭐️ From [sokaluis](https://github.com/sokaluis) with :sparkling_heart:
-<img align="right" height="25" src="https://visitor-badge.glitch.me/badge?page_id=sokaluis.sokaluis0">
-<br>
+| Layer | Technologies |
+|---|---|
+| **Frontend** | Next.js 15, React 19, TypeScript, Tailwind CSS, Framer Motion |
+| **Mobile / Previous work** | React Native, Flutter, Swift |
+| **Data / CMS** | Strapi, same-origin API routes, Redis |
+| **Backend / Tooling** | Node.js, Express, Docker, Vitest, Puppeteer/Chromium |
+| **Deploy** | Vercel, GitHub Actions |
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokaluis&layout=compact)](https://github.com/sokaluis/github-readme-stats)
+
+![Luis Azocar GitHub Stats](https://github-readme-stats.vercel.app/api?username=sokaluis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## How to Reach Me
+
+- **LinkedIn**: [luis-azocar](https://www.linkedin.com/in/luis-azocar/)
+- **GitHub**: [sokaluis](https://github.com/sokaluis)
+- **Email**: lazocar.dev@gmail.com
+- **Portfolio**: [luisazocar.vercel.app](https://luisazocar.vercel.app)
+
+---
+
+Open to senior frontend, fullstack, and architecture roles. Also available for freelance engagements.
